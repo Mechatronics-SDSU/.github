@@ -1,5 +1,9 @@
 ## SDSU MECHATRONICS GIT ORGANIZATION
 
+Mechatronics is a multidisciplinary team comprised of undergraduate business and mechanical, electrical, and software engineering students from San Diego State University. 
+
+Our goal is to give hands-on experience to passionate students through challenging robotics projects like autonomous submarines (RoboSub). 
+
 <!--
 
 **Here are some ideas to get you started:**
