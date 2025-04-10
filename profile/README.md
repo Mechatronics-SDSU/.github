@@ -2,7 +2,7 @@
 
 Mechatronics is a multidisciplinary team comprised of undergraduate business and mechanical, electrical, and software engineering students from San Diego State University. 
 
-Our goal is to give hands-on experience to passionate students through challenging robotics projects like autonomous submarines (Like the international [RoboSub](https://robosub.org/) competition!).
+Our goal is to give hands-on experience to passionate students through challenging robotics projects like autonomous submarinee, like the international [RoboSub](https://robosub.org/) competition!
 
 <!--
 
